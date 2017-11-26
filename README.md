@@ -1,3 +1,5 @@
-#Git Nauka
+# Git Nauka
 
-Projekt do nauki Gita
+Projekt do nauki GIT-a
+
+Może się go kiedyś nauczę.
