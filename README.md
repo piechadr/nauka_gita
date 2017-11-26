@@ -1,5 +1,5 @@
 # Git Nauka
 
-Projekt do nauki GIT-a
+Projekt do nauki GIT-a i początki pythona.
 
 Może się go kiedyś nauczę.
